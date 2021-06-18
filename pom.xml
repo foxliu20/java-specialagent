@@ -645,7 +645,7 @@
       <dependency>
         <groupId>io.opentracing.contrib</groupId>
         <artifactId>jaeger-client-bundle</artifactId>
-        <version>1.0.0</version>
+        <version>1.2.0</version>
       </dependency>
       <dependency>
         <groupId>com.lightstep.tracer</groupId>
